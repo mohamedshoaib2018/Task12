@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CAD_2_REVIT</Name>
+		<Assembly>CAD_2_REVIT.dll</Assembly>
+		<FullClassName>CAD_2_REVIT.CAD_2_REVIT_APP</FullClassName>
+		<Text>CAD_2_REVIT_APP</Text>
+		<Description>Columns From Cad To revit </Description>
+		<AddInId>
+			01F9B24C-720E-48F2-A99E-6CF53035C640
+		</AddInId>
+		<VendorId>Mohamed Shoaib</VendorId>
+		<VendorDescription>BIM Developer, eng.mohamed.shoaib.business@gmail.com</VendorDescription>
+		<TooltipImage>c:\MyProgram\Autodesk.png</TooltipImage>
+		<LargeImage>C:\Users\SERVER\Downloads\WavingHand.png</LargeImage>
+	</AddIn>
+</RevitAddIns>
+
